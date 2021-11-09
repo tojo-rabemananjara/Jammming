@@ -1,4 +1,4 @@
-const clientId = '<CLIENT ID>';
+const clientId = config.clientId;
 const redirectUri = 'http://Tojo_Jammming.surge.sh';
 // const redirectUri = 'http://localhost:3000';
 

@@ -8,4 +8,4 @@ The goal of this project was to create and deploy a react app, practice many int
 * JS
 * Spotify API
 ## Launch
-Go to http://Tojo_Jammming.surge.sh
+Go to https://Tojo_Jammming.surge.sh

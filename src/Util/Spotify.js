@@ -1,13 +1,13 @@
-import {config} from '../../config';
+import {config} from '../config';
 
 const clientId = config.clientId;
-const redirectUri = 'http://Tojo_Jammming.surge.sh';
+const redirectUri = 'https://tojo-jammming.surge.sh/';
 // const redirectUri = 'http://localhost:3000';
 
 let accessToken;
 
 const Spotify = {
-    getAccessToke() {
+    getAccessToken() {
         if (accessToken) {
             return accessToken;
         }
